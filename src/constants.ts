@@ -1,0 +1,1 @@
+export const INITIAL_USER_COUNT = 15
